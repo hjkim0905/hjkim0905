@@ -75,8 +75,8 @@
 **Role**: Frontend Developer
 
 **Team**: Frontend(3) • Backend(1) • PM(2) • Designer(1)
-
  <br/><br/>
+ 
 #### 2. WheelBus
 **Period**: 2024.06 - 2024.07
 
