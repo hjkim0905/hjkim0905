@@ -44,70 +44,23 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project History </h2> <div align= "center">
 
 ### 🌟 Commercial Projects
-#### 1. NCMN Admin Web & WebApp
-**Period**: 2024.10 - Present
+**NCMN Admin Web & WebApp** | Frontend Developer | 2024.10 - Present | Team: Frontend(1) • Backend(1)
 
-  **Role**: Frontend Developer
-  
- **Team**: Frontend(1) • Backend(1)
- <br/><br/>
+**Modbus AC Remote Control App** | Frontend Developer | 2024.08 - 2024.11 | Team: Frontend(2) • PM(1) • Hardware(1)
 
-#### 2. Modbus AC Remote Control App
-**Period**: 2024.08 - 2024.11
-
- **Role**: Frontend Developer
- 
- **Team**: Frontend(2) • PM(1) • Hardware(1)
-  <br/><br/>
-
-#### 3. SophieBook Filter & Photo Editor
-**Period**: 2024.07 - 2024.11
-
- **Role**: Frontend Developer
- 
- **Team**: Frontend(2) • Backend(1) • PM(1) • Designer(1)
+**SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2024.11 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
  
  <br/><br/>
 ### 🎨 Team Projects
-#### 1. [Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)
-**Period**: 2024.06 - Present
+**[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
-**Role**: Frontend Developer
+**WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**Team**: Frontend(3) • Backend(1) • PM(2) • Designer(1)
- <br/><br/>
- 
-#### 2. WheelBus
-**Period**: 2024.06 - 2024.07
+**청춘뽑기** | Frontend Developer | 2024.05 | Team: Frontend(2) • Backend(1) • PM(2) • Designer(1)
 
-**Role**: Frontend Developer
+**MoneyGlove** | Frontend Developer | 2023.12 - 2024.01 | Team: Frontend(3) • Backend(1) • PM(1) • Designer(1)
 
-**Team**: Frontend(2) • Backend(1) • PM(1) • Designer(1)
- <br/><br/>
- 
-#### 3. 청춘뽑기
-**Period**: 2024.05
-
-**Role**: Frontend Developer
-
-**Team**: Frontend(2) • Backend(1) • PM(2) • Designer(1)
- <br/><br/>
-
-#### 4. MoneyGlove
-**Period**: 2023.12 - 2024.01
-
-**Role**: Frontend Developer
-
-**Team**: Frontend(3) • Backend(1) • PM(1) • Designer(1)
- <br/><br/>
-
-#### 5. 버르장례식
-**Period**: 2023.11
-
-**Role**: Frontend Developer
-
-**Team**: Frontend(1) • Backend(1) • PM(1) • Designer(2)
- <br/><br/>
+**버르장례식** | Frontend Developer | 2023.11 | Team: Frontend(1) • Backend(1) • PM(1) • Designer(2)
 
 <br/>
   <div align= "center"> 
