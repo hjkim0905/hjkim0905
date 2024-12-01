@@ -36,9 +36,9 @@
   
 **PARD 3rd Long Hackathon 우수상** | *Mumuk* | 2024.06
   
-**2024 한동대 스마트 SW 공보전 최우수상** | *Mumuk* | 2024
+**2024 한동대 스마트 SW 공보전 최우수상** | *Mumuk* | 2024.11
   
-**2024 한동대 스마트 SW 공모전 장려상** | *청춘뽑기* | 2024
+**2024 한동대 스마트 SW 공모전 장려상** | *청춘뽑기* | 2024.11
 
 <br/>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project History </h2> <div align= "center">
