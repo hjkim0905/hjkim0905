@@ -50,7 +50,7 @@
 
 **Modbus AC Remote Control App** | Frontend Developer | 2024.08 - 2024.11 | Team: Frontend(2) • PM(1) • Hardware(1)
 
-**SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2024.11 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
+**SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
  
  <br/><br/>
 ### 🎨 Team Projects
