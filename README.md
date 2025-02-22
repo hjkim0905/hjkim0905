@@ -46,11 +46,13 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project History </h2> <div align= "center">
 
 ### 🌟 Commercial Projects
-**NCMN Admin Web & WebApp** | Frontend Developer | 2024.10 - Present | Team: Frontend(1) • Backend(1)
+**NCMN Admin Web & WebApp** | Frontend Developer | 2024.10 - 2025.01 | Team: Frontend(1) • Backend(1)
 
 **Modbus AC Remote Control App** | Frontend Developer | 2024.08 - 2024.11 | Team: Frontend(2) • PM(1) • Hardware(1)
 
 **SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
+
+**Sinilfood Business Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
  
  <br/><br/>
 ### 🎨 Team Projects
