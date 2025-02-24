@@ -70,7 +70,4 @@
   <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hjkim0905&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"
          /> <br/>
-        
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjkim0905&layout=compact&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"
-           /> </div> 
 </div>
