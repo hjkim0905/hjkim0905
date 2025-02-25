@@ -49,7 +49,7 @@
 
 **SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**Sinilfood Business Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
+**Sinilfood Business/CustomerService Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
  
  <br/><br/>
 ### 🎨 Team Projects
