@@ -6,6 +6,7 @@
 <br>
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다🙇‍♂️📚
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -44,6 +45,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project History </h2> <div align= "center">
 
 ### 🌟 Commercial Projects
+
 **NCMN Admin Web & WebApp** | Frontend Developer | 2024.10 - 2025.01 | Team: Frontend(1) • Backend(1)
 
 **Modbus AC Remote Control App** | Frontend Developer | 2024.08 - 2024.11 | Team: Frontend(2) • PM(1) • Hardware(1)
@@ -51,9 +53,11 @@
 **SophieBook Filter & Photo Editor** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
 **Sinilfood Business/CustomerService Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
- 
- <br/><br/>
+
+<br/><br/>
+
 ### 🎨 Team Projects
+
 **[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
 **WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
@@ -69,3 +73,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hjkim0905&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"
          /> <br/>
 </div>
+
+## 📕 Latest Blog Posts
