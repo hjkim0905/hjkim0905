@@ -71,9 +71,11 @@
 
 <br/>
   <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hjkim0905&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"
-         /> <br/>
-</div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2>
+  </div>
+  <div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hjkim0905&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"/> <br/>
+  </div>
 
 ## 📕 Latest Blog Posts
 <ul><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 살펴보기!</a></li><li><a href='https://bbin-guuuu.tistory.com/65' target='_blank'>[TypeScript] JavaScript의 진화!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/64' target='_blank'>[React] 라이브러리인가 프레임워크인가?</a></li><li><a href='https://bbin-guuuu.tistory.com/63' target='_blank'>[React] 반응형 웹을 위한 react-responsive 활용하기</a></li><li><a href='https://bbin-guuuu.tistory.com/62' target='_blank'>[React] Query String과 Browser History를 활용한 필터링 상태 관리 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/61' target='_blank'>[React] Create React App의 지원 종료 ⚠️</a></li><li><a href='https://bbin-guuuu.tistory.com/60' target='_blank'>[React] 반응형 웹 개발? react-responsive가 다해줘!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/59' target='_blank'>[React] 웹사이트에 Parallax 효과 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/58' target='_blank'>[React] Protected Routes로 페이지 접근 제어하기  </a></li><li><a href='https://bbin-guuuu.tistory.com/57' target='_blank'>[React] Footer 스타일링 with Flexbox, 웹에 Footer 적용해보기!</a></li></ul>
