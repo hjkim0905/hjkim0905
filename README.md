@@ -1,3 +1,4 @@
+
 <a href="mailto:eax9952@gmail.com" target="mailto:eax9952@gmail.com"><img src="https://img.shields.io/badge/eax9952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/bbin_guuuu/" target="https://www.instagram.com/bbin_guuuu/"><img src="https://img.shields.io/badge/bbin_guuuu-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
@@ -75,5 +76,4 @@
 </div>
 
 ## 📕 Latest Blog Posts
-
 <ul><li><a href='https://bbin-guuuu.tistory.com/67' target='_blank'>[TypeScript] 인터페이스 개념정리!</a></li><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 살펴보기!</a></li><li><a href='https://bbin-guuuu.tistory.com/65' target='_blank'>[TypeScript] JavaScript의 진화!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/64' target='_blank'>[React] 라이브러리인가 프레임워크인가?</a></li><li><a href='https://bbin-guuuu.tistory.com/63' target='_blank'>[React] 반응형 웹을 위한 react-responsive 활용하기</a></li><li><a href='https://bbin-guuuu.tistory.com/62' target='_blank'>[React] Query String과 Browser History를 활용한 필터링 상태 관리 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/61' target='_blank'>[React] Create React App의 지원 종료 ⚠️</a></li><li><a href='https://bbin-guuuu.tistory.com/60' target='_blank'>[React] 반응형 웹 개발? react-responsive가 다해줘!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/59' target='_blank'>[React] 웹사이트에 Parallax 효과 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/58' target='_blank'>[React] Protected Routes로 페이지 접근 제어하기  </a></li></ul>
