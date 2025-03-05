@@ -6,9 +6,6 @@ import Parser from 'rss-parser';
  * @type {string}
  */
 let text = `
-<a href="mailto:eax9952@gmail.com" target="mailto:eax9952@gmail.com"><img src="https://img.shields.io/badge/eax9952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/bbin_guuuu/" target="https://www.instagram.com/bbin_guuuu/"><img src="https://img.shields.io/badge/bbin_guuuu-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다⌨️🚀
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다🙇‍♂️📚
@@ -41,6 +38,7 @@ let text = `
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 <div>
     <a href=https://bbin-guuuu.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://bbin-guuuu.tistory.com/"> </a>
+    <a href="mailto:eax9952@gmail.com" target="mailto:eax9952@gmail.com"><img src="https://img.shields.io/badge/eax9952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Award History </h2>
