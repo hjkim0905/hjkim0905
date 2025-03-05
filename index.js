@@ -38,6 +38,7 @@ let text = `
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 <div>
     <a href=https://bbin-guuuu.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://bbin-guuuu.tistory.com/"> </a>
+    <br/>
     <a href="mailto:eax9952@gmail.com" target="mailto:eax9952@gmail.com"><img src="https://img.shields.io/badge/eax9952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
