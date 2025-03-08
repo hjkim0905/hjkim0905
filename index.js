@@ -6,9 +6,9 @@ import Parser from 'rss-parser';
  * @type {string}
  */
 let text = `
-👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다⌨️🚀
+👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
-현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다🙇‍♂️📚
+현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>

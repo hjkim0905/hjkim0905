@@ -1,7 +1,6 @@
+👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
-👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다⌨️🚀
-
-현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다🙇‍♂️📚
+현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
@@ -75,4 +74,9 @@
 </div>
 
 ## 📕 Latest Blog Posts
+<<<<<<< HEAD
 <ul><li><a href='https://bbin-guuuu.tistory.com/69' target='_blank'>[TypeScript] 타입 별칭(Type Aliases) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/68' target='_blank'>[TypeScript] 열거형(Enums) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/67' target='_blank'>[TypeScript] 인터페이스 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/65' target='_blank'>[TypeScript] JavaScript의 진화!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/64' target='_blank'>[React] 라이브러리인가 프레임워크인가?</a></li><li><a href='https://bbin-guuuu.tistory.com/63' target='_blank'>[React] 반응형 웹을 위한 react-responsive 활용하기</a></li><li><a href='https://bbin-guuuu.tistory.com/62' target='_blank'>[React] Query String과 Browser History를 활용한 필터링 상태 관리 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/61' target='_blank'>[React] Create React App의 지원 종료 ⚠️</a></li><li><a href='https://bbin-guuuu.tistory.com/60' target='_blank'>[React] 반응형 웹 개발? react-responsive가 다해줘!!!</a></li></ul>
+=======
+
+<ul><li><a href='https://bbin-guuuu.tistory.com/68' target='_blank'>[TypeScript] 열거형(Enums) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/67' target='_blank'>[TypeScript] 인터페이스 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 살펴보기</a></li><li><a href='https://bbin-guuuu.tistory.com/65' target='_blank'>[TypeScript] JavaScript의 진화!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/64' target='_blank'>[React] 라이브러리인가 프레임워크인가?</a></li><li><a href='https://bbin-guuuu.tistory.com/63' target='_blank'>[React] 반응형 웹을 위한 react-responsive 활용하기</a></li><li><a href='https://bbin-guuuu.tistory.com/62' target='_blank'>[React] Query String과 Browser History를 활용한 필터링 상태 관리 구현하기</a></li><li><a href='https://bbin-guuuu.tistory.com/61' target='_blank'>[React] Create React App의 지원 종료 ⚠️</a></li><li><a href='https://bbin-guuuu.tistory.com/60' target='_blank'>[React] 반응형 웹 개발? react-responsive가 다해줘!!!</a></li><li><a href='https://bbin-guuuu.tistory.com/59' target='_blank'>[React] 웹사이트에 Parallax 효과 구현하기</a></li></ul>
+>>>>>>> 7ceb176 ([Chore] : dot added)
