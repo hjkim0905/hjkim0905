@@ -1,3 +1,4 @@
+
 👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
@@ -75,5 +76,4 @@
 </div>
 
 ## 📕 Latest Blog Posts
-
-<ul><li><a href='https://bbin-guuuu.tistory.com/74' target='_blank'>[Next.js] App Router vs Pages Router</a></li><li><a href='https://bbin-guuuu.tistory.com/73' target='_blank'>[Next.js] SSR이란 무엇인가? - Next.js의 서버 사이드 렌더링 이해하기</a></li><li><a href='https://bbin-guuuu.tistory.com/72' target='_blank'>[Next.js] styled-components(CSS in JS)를 Next.js에서 사용한다고??!  </a></li><li><a href='https://bbin-guuuu.tistory.com/71' target='_blank'>[Next.js] 파일 시스템 기반 라우팅 개념 정리</a></li><li><a href='https://bbin-guuuu.tistory.com/70' target='_blank'>[Next.js] Next.js + TypeScript 프로젝트 생성하기 ⚒️</a></li><li><a href='https://bbin-guuuu.tistory.com/69' target='_blank'>[TypeScript] 타입 별칭(Type Aliases) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/68' target='_blank'>[TypeScript] 열거형(Enums) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/67' target='_blank'>[TypeScript] 인터페이스 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/65' target='_blank'>[TypeScript] JavaScript의 진화!!!</a></li></ul>
+<ul><li><a href='https://bbin-guuuu.tistory.com/75' target='_blank'>[Next.js] ❗️입문자 주목❗️ TypeScript로 구현하는 로그인 시스템 튜토리얼</a></li><li><a href='https://bbin-guuuu.tistory.com/74' target='_blank'>[Next.js] App Router vs Pages Router</a></li><li><a href='https://bbin-guuuu.tistory.com/73' target='_blank'>[Next.js] SSR이란 무엇인가? - Next.js의 서버 사이드 렌더링 이해하기</a></li><li><a href='https://bbin-guuuu.tistory.com/72' target='_blank'>[Next.js] styled-components(CSS in JS)를 Next.js에서 사용한다고??!  </a></li><li><a href='https://bbin-guuuu.tistory.com/71' target='_blank'>[Next.js] 파일 시스템 기반 라우팅 개념 정리</a></li><li><a href='https://bbin-guuuu.tistory.com/70' target='_blank'>[Next.js] Next.js + TypeScript 프로젝트 생성하기 ⚒️</a></li><li><a href='https://bbin-guuuu.tistory.com/69' target='_blank'>[TypeScript] 타입 별칭(Type Aliases) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/68' target='_blank'>[TypeScript] 열거형(Enums) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/67' target='_blank'>[TypeScript] 인터페이스 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/66' target='_blank'>[TypeScript] 제네릭(Generics) 개념정리</a></li></ul>
