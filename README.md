@@ -1,4 +1,3 @@
-
 👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
@@ -42,7 +41,7 @@
 
 **PARD 3rd Long Hackathon 우수상** | _Mumuk_ | 2024.06
 
-**2024 한동대 스마트 SW 공보전 최우수상** | _Mumuk_ | 2024.11
+**2024 한동대 스마트 SW 공모전 최우수상** | _Mumuk_ | 2024.11
 
 **2024 한동대 스마트 SW 공모전 장려상** | _청춘뽑기_ | 2024.11
 
@@ -76,4 +75,5 @@
 </div>
 
 ## 📕 Latest Blog Posts
+
 <ul><li><a href='https://bbin-guuuu.tistory.com/85' target='_blank'>[컴퓨터그래픽스] GPU의 구조와 작동 원리</a></li><li><a href='https://bbin-guuuu.tistory.com/84' target='_blank'>[Next.js] layout.tsx에서의 metadata 이해하기  </a></li><li><a href='https://bbin-guuuu.tistory.com/83' target='_blank'>[컴퓨터그래픽스] 렌더링 파이프라인 완벽 이해하기</a></li><li><a href='https://bbin-guuuu.tistory.com/82' target='_blank'>[SQLD] 3일 공부하고 SQLD 시험 합격하기(후기&amp;정보) ✨</a></li><li><a href='https://bbin-guuuu.tistory.com/81' target='_blank'>[Git] 커밋 히스토리 유지하며 Git 레포지토리 병합하기  </a></li><li><a href='https://bbin-guuuu.tistory.com/80' target='_blank'>[Next.js] App Router에서 src 디렉토리 사용할거야???</a></li><li><a href='https://bbin-guuuu.tistory.com/79' target='_blank'>[Next.js] Turbopack? 뭐지? 개발 환경 속도를 향상시킨다고?!!</a></li><li><a href='https://bbin-guuuu.tistory.com/78' target='_blank'>[Next.js] Next.js + TypeScript에서의 라우팅 시 데이터 전달 방법 총정리</a></li><li><a href='https://bbin-guuuu.tistory.com/77' target='_blank'>[Next.js] Next.js + TypeScript에서의 페이지 이동 방법 총정리</a></li><li><a href='https://bbin-guuuu.tistory.com/76' target='_blank'>[Next.js] 'use client'와 React Hooks의 관계 - SSR과 CSR의 경계 이해하기</a></li></ul>
