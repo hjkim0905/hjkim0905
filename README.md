@@ -60,6 +60,8 @@
 
 ### 🎨 Team Projects
 
+**[NEWSEE](https://chromewebstore.google.com/detail/newsee/kckamekolimffahghoechpaenpgidklj?hl=ko&utm_source=ext_sidebar)** | Frontend Developer | 2025.06 - Present | Team: Frontend(2) • Backend(1) • Designer(1)
+
 **[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
 **WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
