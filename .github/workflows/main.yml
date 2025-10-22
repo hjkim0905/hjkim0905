@@ -1,30 +1,46 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Readme Update
 
-# Controls when the workflow will run
 on:
-    # 1시간에 한번씩 아래 스크립트를 실행한다.
-    schedule:
-        - cron: '55 14 * * *'
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+  # 매일 한국시간 오후 11시에 실행 (UTC 14시)
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
 jobs:
-    # This workflow contains a single job called "build"
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v3
-            - uses: actions/setup-node@v3
-              with:
-                  node-version: 16
-            - name: Install dependencies
-              run: npm ci
-            - name: Update README
-              run: npm start
-            - name: Commit README
-              run: |
-                  git add .
-                  git config --local user.email "eax9952@gmail.com"
-                  git config --local user.name "hjkim0905"
-                  git commit -m "Update README.md"
-                  git push
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update README
+        run: npm start
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+              echo "changed=true" >> $GITHUB_OUTPUT
+          else
+              echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "eax9952@gmail.com"
+          git config --local user.name "hjkim0905"
+          git add README.md
+          git commit -m "🤖 Auto-update README with latest blog posts"
+          git push
