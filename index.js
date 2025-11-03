@@ -67,6 +67,8 @@ let text = `
 
 ### 🎨 Team Projects
 
+**[NEWSEE](https://chromewebstore.google.com/detail/newsee/kckamekolimffahghoechpaenpgidklj?hl=ko&utm_source=ext_sidebar)** | Frontend Developer | 2025.06 - Present | Team: Frontend(2) • Backend(1) • Designer(1)
+
 **[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
 **WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
@@ -87,31 +89,31 @@ let text = `
 
 // rss-parser 생성
 const parser = new Parser({
-    headers: {
-        Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
-    },
+  headers: {
+    Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
+  },
 });
 
 (async () => {
-    // 피드 목록
-    const feed = await parser.parseURL('https://bbin-guuuu.tistory.com/rss');
+  // 피드 목록
+  const feed = await parser.parseURL('https://bbin-guuuu.tistory.com/rss');
 
-    text += `<ul>`;
+  text += `<ul>`;
 
-    // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 10; i++) {
-        const { title, link } = feed.items[i];
-        console.log(`${i + 1}번째 게시물`);
-        console.log(`추가될 제목: ${title}`);
-        console.log(`추가될 링크: ${link}`);
-        text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
-    }
+  // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
+  for (let i = 0; i < 10; i++) {
+    const { title, link } = feed.items[i];
+    console.log(`${i + 1}번째 게시물`);
+    console.log(`추가될 제목: ${title}`);
+    console.log(`추가될 링크: ${link}`);
+    text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+  }
 
-    text += `</ul>`;
+  text += `</ul>`;
 
-    // README.md 파일 생성
-    writeFileSync('README.md', text, 'utf8', (e) => {
-        console.log(e);
-    });
-    console.log('업데이트 완료');
+  // README.md 파일 생성
+  writeFileSync('README.md', text, 'utf8', (e) => {
+    console.log(e);
+  });
+  console.log('업데이트 완료');
 })();
