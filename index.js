@@ -73,7 +73,7 @@ let text = `
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hjkim0905&bg_color=60,4c5685,693870&title_color=ffffff&text_color=ffffff&count_private=true"/>
+    <img src="https://github-readme-stats-six-self-82.vercel.app/api?username=hjkim0905&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats"/>
 </div>
 
 ## 📕 Latest Blog Posts
