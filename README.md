@@ -1,4 +1,3 @@
-
 👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
@@ -48,7 +47,7 @@
 
 **SophieBook Filter & Photo Editor App** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**Sinilfood Business/CustomerService Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
+**[Sinilfood Business/CustomerService Section Website](https://www.shinilfood.com/business)** | Frontend Developer | 2025.02 | Team: Frontend(1)
 
 ### 🎨 Team Projects
 
@@ -56,13 +55,11 @@
 
 **[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
+**[Lifeword](https://walab.info/lifeword/)** | Frontend Developer | 2024.12 - 2025.03 | Team: Frontend(1) • Backend(3)
+
 **WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**청춘뽑기** | Frontend Developer | 2024.05 | Team: Frontend(2) • Backend(1) • PM(2) • Designer(1)
-
 **MoneyGlove** | Frontend Developer | 2023.12 - 2024.01 | Team: Frontend(3) • Backend(1) • PM(1) • Designer(1)
-
-**버르장례식** | Frontend Developer | 2023.11 | Team: Frontend(1) • Backend(1) • PM(1) • Designer(2)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2>
 <div>
@@ -70,4 +67,5 @@
 </div>
 
 ## 📕 Latest Blog Posts
+
 <ul><li><a href='https://bbin-guuuu.tistory.com/110' target='_blank'>[JavaScript] var / let / const 호이스팅과 TDZ</a></li><li><a href='https://bbin-guuuu.tistory.com/109' target='_blank'>[JavaScript] 스코프(Scope) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/108' target='_blank'>[TDD] TDD와 페어프로그래밍</a></li><li><a href='https://bbin-guuuu.tistory.com/107' target='_blank'>[우아한테크코스 8기] 레벨 1 Gemini Canvas 웹앱 만들기 회고</a></li><li><a href='https://bbin-guuuu.tistory.com/106' target='_blank'>[우아한테크코스 8기] 웹 프론트엔드 최종 합격 후기</a></li><li><a href='https://bbin-guuuu.tistory.com/105' target='_blank'>[우아한테크코스 8기] 프리코스 오픈미션 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/104' target='_blank'>[우아한테크코스 8기] 프리코스 3주차 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/103' target='_blank'>[우아한테크코스 8기] 프리코스 2주차 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/102' target='_blank'>[우아한테크코스 8기] 프리코스 1주차 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/101' target='_blank'>[우아한테크코스 8기] 프리코스를 준비하며  </a></li></ul>

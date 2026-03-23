@@ -55,7 +55,7 @@ let text = `
 
 **SophieBook Filter & Photo Editor App** | Frontend Developer | 2024.07 - 2025.02 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**Sinilfood Business/CustomerService Section Website** | Frontend Developer | 2025.02 | Team: Frontend(1)
+**[Sinilfood Business/CustomerService Section Website](https://www.shinilfood.com/business)** | Frontend Developer | 2025.02 | Team: Frontend(1)
 
 ### 🎨 Team Projects
 
@@ -63,13 +63,11 @@ let text = `
 
 **[Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191)** | Frontend Developer | 2024.06 - Present | Team: Frontend(3) • Backend(1) • PM(2) • Designer(1)
 
+**[Lifeword](https://walab.info/lifeword/)** | Frontend Developer | 2024.12 - 2025.03 | Team: Frontend(1) • Backend(3)
+
 **WheelBus** | Frontend Developer | 2024.06 - 2024.07 | Team: Frontend(2) • Backend(1) • PM(1) • Designer(1)
 
-**청춘뽑기** | Frontend Developer | 2024.05 | Team: Frontend(2) • Backend(1) • PM(2) • Designer(1)
-
 **MoneyGlove** | Frontend Developer | 2023.12 - 2024.01 | Team: Frontend(3) • Backend(1) • PM(1) • Designer(1)
-
-**버르장례식** | Frontend Developer | 2023.11 | Team: Frontend(1) • Backend(1) • PM(1) • Designer(2)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ Stats </h2>
 <div>
