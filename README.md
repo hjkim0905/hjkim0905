@@ -1,3 +1,4 @@
+
 👋반갑습니다 저는 **개발자 꿈나무** 김현중입니다.⌨️🚀
 
 현재 한동대학교에 재학중이며 열정적인 자세로 학습에 임하고 있습니다.🙇‍♂️📚
@@ -62,5 +63,4 @@
 </div>
 
 ## 📕 Latest Blog Posts
-
 <ul><li><a href='https://bbin-guuuu.tistory.com/111' target='_blank'>[JavaScript] HTTP 클라이언트별 에러를 다루는 방식 (XHR, fetch, axios, ky 비교)</a></li><li><a href='https://bbin-guuuu.tistory.com/110' target='_blank'>[JavaScript] var / let / const 호이스팅과 TDZ</a></li><li><a href='https://bbin-guuuu.tistory.com/109' target='_blank'>[JavaScript] 스코프(Scope) 개념정리</a></li><li><a href='https://bbin-guuuu.tistory.com/108' target='_blank'>[TDD] TDD와 페어프로그래밍</a></li><li><a href='https://bbin-guuuu.tistory.com/107' target='_blank'>[우아한테크코스 8기] 레벨 1 Gemini Canvas 웹앱 만들기 회고</a></li><li><a href='https://bbin-guuuu.tistory.com/106' target='_blank'>[우아한테크코스 8기] 웹 프론트엔드 최종 합격 후기</a></li><li><a href='https://bbin-guuuu.tistory.com/105' target='_blank'>[우아한테크코스 8기] 프리코스 오픈미션 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/104' target='_blank'>[우아한테크코스 8기] 프리코스 3주차 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/103' target='_blank'>[우아한테크코스 8기] 프리코스 2주차 회고  </a></li><li><a href='https://bbin-guuuu.tistory.com/102' target='_blank'>[우아한테크코스 8기] 프리코스 1주차 회고  </a></li></ul>
