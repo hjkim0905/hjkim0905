@@ -27,6 +27,10 @@
 2024.07 ~ 2025.02 - SophieBook Filter & Photo Editor App \
 2025.02 - [Sinilfood Business/CustomerService Section Website](https://www.shinilfood.com/business)
 
+#### 🌐 Open Source Contributions
+
+[Everything Claude Code (ECC)](https://github.com/affaan-m/ECC) - frontend-a11y skill ([#2048](https://github.com/affaan-m/ECC/pull/2048))
+
 #### 📕 Latest Blog Posts
 
 - [[JavaScript] Axios 소스코드를 통한 인터셉터 동작 원리 파헤치기](https://bbin-guuuu.tistory.com/114)
