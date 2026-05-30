@@ -33,8 +33,8 @@
 
 #### 📕 Latest Blog Posts
 
+- [[오픈소스] 스타 20만, ECC의 컨트리뷰터가 되기까지  ](https://bbin-guuuu.tistory.com/115)
 - [[JavaScript] Axios 소스코드를 통한 인터셉터 동작 원리 파헤치기](https://bbin-guuuu.tistory.com/114)
 - [[우아한테크코스 8기] 레벨 1 회고](https://bbin-guuuu.tistory.com/113)
 - [[JavaScript] 이벤트루프 제대로 알기!](https://bbin-guuuu.tistory.com/112)
 - [[JavaScript] HTTP 클라이언트별 에러를 다루는 방식 (XHR, fetch, axios, ky 비교)](https://bbin-guuuu.tistory.com/111)
-- [[JavaScript] var / let / const 호이스팅과 TDZ](https://bbin-guuuu.tistory.com/110)
