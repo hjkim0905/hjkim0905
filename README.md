@@ -29,7 +29,8 @@
 
 #### 🌐 Open Source Contributions
 
-[Everything Claude Code (ECC)](https://github.com/affaan-m/ECC) - frontend-a11y skill ([#2048](https://github.com/affaan-m/ECC/pull/2048))
+[Everything Claude Code (ECC)](https://github.com/affaan-m/ECC) - frontend-a11y skill ([#2048](https://github.com/affaan-m/ECC/pull/2048)) \
+[ko.react.dev](https://github.com/reactjs/ko.react.dev) - Korean docs typo fix ([#1524](https://github.com/reactjs/ko.react.dev/pull/1524))
 
 #### 📕 Latest Blog Posts
 
