@@ -23,8 +23,9 @@ let text = `
 
 #### 💻 Projects
 
-2025.06 ~ ing - [NEWSEE](https://chromewebstore.google.com/detail/newsee/kckamekolimffahghoechpaenpgidklj?hl=ko&utm_source=ext_sidebar) \\
-2024.06 ~ ing - [Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191) \\
+2026.04 ~ ing - [tolli](https://apps.apple.com/kr/app/tolli/id6766518023) \\
+2025.06 ~ 2025.12 - [NEWSEE](https://chromewebstore.google.com/detail/newsee/kckamekolimffahghoechpaenpgidklj?hl=ko&utm_source=ext_sidebar) \\
+2024.06 ~ 2025.07 - [Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191) \\
 2024.12 ~ 2025.03 - [Lifeword](https://walab.info/lifeword/) \\
 2023.12 ~ 2024.01 - [MoneyGlove](https://precious-relationship.web.app/)
 
