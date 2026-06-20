@@ -35,8 +35,8 @@
 
 #### 📕 Latest Blog Posts
 
+- [[tolli #2] 왜 React Native + WebView 하이브리드였을까?](https://bbin-guuuu.tistory.com/117)
 - [[tolli #1] 무거운 성경암송 앱이 싫다](https://bbin-guuuu.tistory.com/116)
 - [[오픈소스] 스타 20만, ECC의 컨트리뷰터가 되기까지  ](https://bbin-guuuu.tistory.com/115)
 - [[JavaScript] Axios 소스코드를 통한 인터셉터 동작 원리 파헤치기](https://bbin-guuuu.tistory.com/114)
 - [[우아한테크코스 8기] 레벨 1 회고](https://bbin-guuuu.tistory.com/113)
-- [[JavaScript] 이벤트루프 제대로 알기!](https://bbin-guuuu.tistory.com/112)
