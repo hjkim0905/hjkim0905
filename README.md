@@ -35,8 +35,8 @@
 
 #### 📕 Latest Blog Posts
 
+- [[tolli #4] AOS 애플로그인 트러블슈팅](https://bbin-guuuu.tistory.com/119)
 - [[tolli #3] switch로 쪼갠 화면이 협업 단위가 됐다](https://bbin-guuuu.tistory.com/118)
 - [[tolli #2] 왜 React Native + WebView 하이브리드였을까?](https://bbin-guuuu.tistory.com/117)
 - [[tolli #1] 무거운 성경암송 앱이 싫다](https://bbin-guuuu.tistory.com/116)
 - [[오픈소스] 스타 20만, ECC의 컨트리뷰터가 되기까지  ](https://bbin-guuuu.tistory.com/115)
-- [[JavaScript] Axios 소스코드를 통한 인터셉터 동작 원리 파헤치기](https://bbin-guuuu.tistory.com/114)
