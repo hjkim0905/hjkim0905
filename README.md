@@ -16,6 +16,7 @@
 
 #### 💻 Projects
 
+2026.08 ~ ing - [담.](https://apps.apple.com/kr/app/id6809452180) \
 2026.04 ~ ing - [tolli](https://apps.apple.com/kr/app/tolli/id6766518023) \
 2025.06 ~ 2025.12 - [NEWSEE](https://chromewebstore.google.com/detail/newsee/kckamekolimffahghoechpaenpgidklj?hl=ko&utm_source=ext_sidebar) \
 2024.06 ~ 2025.07 - [Mumuk](https://apps.apple.com/kr/app/%EB%A8%B8%EB%A8%B9-mumuk/id6526490191) \
