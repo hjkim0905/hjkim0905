@@ -1,5 +1,5 @@
 
-### 김현중 | Frontend Developer
+### 김현중 | Software Engineer, Frontend focused
 
 #### 🧑‍💻 Contact
 
