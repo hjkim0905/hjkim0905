@@ -36,8 +36,8 @@
 
 #### 📕 Latest Blog Posts
 
-- [[Next.js] 이미지 성능 높이기](https://bbin-guuuu.tistory.com/123)
+- [[담. #1] 앱보다 19초 영상을 먼저 만든 이유: 인터뷰로 가설을 버리고 Fake Door로 수요를 확인하기까지](https://bbin-guuuu.tistory.com/124)
+- [[Next.js] next/image는 왜 SVG만 최적화하지 않을까? 22MB를 387KB로 줄인 과정](https://bbin-guuuu.tistory.com/123)
 - [[tolli #6] 웹뷰와 RN 사이의 UI 트러블슈팅 모음](https://bbin-guuuu.tistory.com/122)
-- [[tolli #5] 웹뷰에서 구글로그인 구현하기](https://bbin-guuuu.tistory.com/121)
-- [[tolli #4] AOS 애플로그인 트러블슈팅](https://bbin-guuuu.tistory.com/119)
-- [[tolli #3] switch로 쪼갠 화면이 협업 단위가 됐다](https://bbin-guuuu.tistory.com/118)
+- [[tolli #5] 구글은 왜 웹뷰 로그인을 막을까? 세 번의 시도 끝에 네이티브와 JS Bridge로 나눈 이유](https://bbin-guuuu.tistory.com/121)
+- [[tolli #4] 안드로이드 애플 로그인에서 405와 401이 연달아 뜬 이유: rawNonce 누락과 인증 상태 타이밍](https://bbin-guuuu.tistory.com/119)
