@@ -36,8 +36,8 @@
 
 #### 📕 Latest Blog Posts
 
+- [[담. #3] Claude Code로 AI 하네스를 구축하고, 리뷰 훅이 261번 중 249번 헛짚은 이유를 실험으로 찾기](https://bbin-guuuu.tistory.com/126)
 - [[담. #2] 달력 사진은 왜 매번 다시 받았을까? next/image 소스와 서명된 URL로 따라간 캐시 키](https://bbin-guuuu.tistory.com/125)
 - [[담. #1] 앱보다 19초 영상을 먼저 만든 이유: 인터뷰로 가설을 버리고 Fake Door로 수요를 확인하기까지](https://bbin-guuuu.tistory.com/124)
 - [[Next.js] next/image는 왜 SVG만 최적화하지 않을까? 22MB를 387KB로 줄인 과정](https://bbin-guuuu.tistory.com/123)
 - [[tolli #6] 웹뷰와 RN 사이의 UI 트러블슈팅 모음](https://bbin-guuuu.tistory.com/122)
-- [[tolli #5] 구글은 왜 웹뷰 로그인을 막을까? 세 번의 시도 끝에 네이티브와 JS Bridge로 나눈 이유](https://bbin-guuuu.tistory.com/121)
