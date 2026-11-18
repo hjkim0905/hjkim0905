@@ -1,3 +1,4 @@
+**Language:** 한국어 | [English](README.en.md)
 
 ### 김현중 | Software Engineer, Frontend focused
 
